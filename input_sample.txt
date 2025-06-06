@@ -1,0 +1,10 @@
+name,price ($),weight (kg),length (m),width (m),height (m),shipment date,destination port
+Camera Bag,37.66,1.1,0.4,0.39,0.26,2023-03-19,Port of Singapore (Singapore)
+Portable Bluetooth Keyboard,144.65,0.39,0.11,0.06,0.03,2023-03-21,Port of Busan (South Korea)
+Large Flat Rate Box,38.57,0.97,0.79,0.55,0.35,2023-03-25,Port of Tianjin (China)
+Ceramic Tiles,10.34,6.22,0.36,0.37,0.02,2023-03-15,Port of Shanghai (China)
+Garden Hose,21.63,1.18,17.77,0.27,0.13,2023-03-25,Port of Tianjin (China)
+Cookware Set,401.64,7.6,0.49,0.35,0.15,2023-03-20,Port of Shanghai (China)
+Drone,1434.08,2.7,0.75,1.3,0.26,2023-03-12,Port of Singapore (Singapore)
+Pallete of Computers,988.66,2021.48,1.01,0.78,0.68,2023-03-18,Port of Tianjin (China)
+Pallete of Clothing,196.68,832.5,1.05,0.94,1.47,2023-03-23,Port of Shanghai (China)

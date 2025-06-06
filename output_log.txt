@@ -1,0 +1,5 @@
+Port of Busan (South Korea)	1.6622082520000063E7
+Port of Shanghai (China)	1.7296584989999965E7
+Port of Singapore (Singapore)	1.6882027190000147E7
+Port of Tianjin (China)	1.7838139949999996E7
+Port of Tokyo (Japan)	1.6875109450000014E7
