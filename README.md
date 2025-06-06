@@ -21,7 +21,7 @@ Ensure the following are installed on your machine:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/cloud_project.git
+git clone https://github.com/Pubu99/cloud_assignment.git
 cd cloud_project
 ```
 
