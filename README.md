@@ -22,7 +22,7 @@ Ensure the following are installed on your machine:
 
 ```bash
 git clone https://github.com/Pubu99/cloud_assignment.git
-cd cloud_project
+cd cloud_assignment
 ```
 
 ### 2. Start Hadoop Cluster via Docker
